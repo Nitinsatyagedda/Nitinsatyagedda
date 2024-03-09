@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nitinsatyagedda
 - 👀 I’m interested in Data science
-- 🌱 I’m currently learning Data science in GUVI
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m IIT Madras certified Data scientist through GUVI
+- 💞️ I’m looking to collaborate on Data science field...
 - 📫 How to reach me ..nitinsatyagedda@gmail.com
   
 
